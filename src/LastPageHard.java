@@ -75,21 +75,21 @@ public class LastPageHard extends javax.swing.JFrame {
         jLabel1.setText("Answers");
 
         try{
-            jLabel2.setText(print(15));
+            jLabel2.setText(print(16));
 	}
 	catch(IOException e)
         {
             e.printStackTrace();
         }
 	try{
-            jLabel3.setText(print(16));
+            jLabel3.setText(print(17));
 	}
 	catch(IOException e)
         {
             e.printStackTrace();
         }
 	try{
-            jLabel4.setText(print(17));
+            jLabel4.setText(print(18));
 	}
 	catch(IOException e)
         {

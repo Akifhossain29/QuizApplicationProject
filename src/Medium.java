@@ -207,27 +207,30 @@ public class Medium extends javax.swing.JFrame {
             if(jRadioButton2.isSelected()==true)
             {
                 c++;
-                buttonGroup1.clearSelection();
-                question();
+                
             }
+            buttonGroup1.clearSelection();
+                question();
         }
         else if(current==2)
         {
             if(jRadioButton2.isSelected()==true)
             {
                 c++;
-                buttonGroup1.clearSelection();
-                question();
+                
             }
+            buttonGroup1.clearSelection();
+                question();
         }
         if(current==3)
         {
             if(jRadioButton3.isSelected()==true)
             {
                 c++;
-                buttonGroup1.clearSelection();
-                jButton1.setText("Submit");
+                
             }
+            buttonGroup1.clearSelection();
+                jButton1.setText("Submit");
             int choice = JOptionPane.showConfirmDialog(null,"Score: "+c, "Result",JOptionPane.YES_OPTION);
                 if(choice==JOptionPane.YES_OPTION)
                 {
