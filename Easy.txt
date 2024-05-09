@@ -1,0 +1,18 @@
+1: What is the capital of Australia?
+ Sydney
+ Melbourne
+ Canberra
+ Adelaide
+2: Who wrote the novel “Pride and Prejudice”?
+ Mark Twain
+ Jane Austen
+ Charles Dickens
+ Emily Bronte
+3: What is the chemical symbol for the element Oxygen?
+ O
+ Na
+ Ge
+ H
+1. Canberra
+2. Jane Austen
+3. O
