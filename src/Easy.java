@@ -220,7 +220,7 @@ public class Easy extends javax.swing.JFrame {
                 
             }
             buttonGroup1.clearSelection();
-              question();
+            question();
         }
         if(current==3)
         {
