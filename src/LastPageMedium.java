@@ -15,7 +15,7 @@ import java.io.IOException;
 public class LastPageMedium extends javax.swing.JFrame {
     public static String print(int lineNumber) throws IOException 
      {
-        BufferedReader in = new BufferedReader(new FileReader("Easy.txt"));
+        BufferedReader in = new BufferedReader(new FileReader("Medium.txt"));
         String line = null;
         int currentLineNumber = 0;
         while((line = in.readLine()) != null){
